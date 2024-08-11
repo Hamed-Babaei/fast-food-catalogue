@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FastFoodCatalogue-Project/static/css/main.334d862c.css",
+    "main.js": "/FastFoodCatalogue-Project/static/js/main.fd2ee1e4.js",
+    "static/media/header-background.jpg": "/FastFoodCatalogue-Project/static/media/header-background.75e1292fc1693fc8838e.jpg",
+    "static/media/pizza.jpg": "/FastFoodCatalogue-Project/static/media/pizza.10a90f9aef884a3b6aac.jpg",
+    "static/media/404.png": "/FastFoodCatalogue-Project/static/media/404.2144b2fb01ea7366114c.png",
+    "index.html": "/FastFoodCatalogue-Project/index.html",
+    "main.334d862c.css.map": "/FastFoodCatalogue-Project/static/css/main.334d862c.css.map",
+    "main.fd2ee1e4.js.map": "/FastFoodCatalogue-Project/static/js/main.fd2ee1e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334d862c.css",
+    "static/js/main.fd2ee1e4.js"
+  ]
+}
